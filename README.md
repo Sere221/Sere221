@@ -3,7 +3,7 @@
 My name is Ivan. I'm Data Analyst.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://steamuserimages-a.akamaihd.net/ugc/1892100150992560871/38E7559167063586D19B58E63B8266C02A26A719/)" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://steamuserimages-a.akamaihd.net/ugc/1892100150992560871/38E7559167063586D19B58E63B8266C02A26A719/)" width="100"/>
 </div>
 <!--
 **Sere221/Sere221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
