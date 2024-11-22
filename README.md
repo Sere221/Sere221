@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! ⚡⚡⚡
 
 <!--
 **Sere221/Sere221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
